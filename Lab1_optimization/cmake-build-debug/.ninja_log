@@ -1,0 +1,23 @@
+# ninja log v5
+2827	2999	1704252902963855809	Lab1_optimization	ff74e5ef852cf6c7
+6	2827	1704252902778698693	CMakeFiles/Lab1_optimization.dir/main.cpp.o	ddd2cfd754ee17eb
+2	2038	1705018303705636706	CMakeFiles/Lab1_optimization.dir/main.cpp.o	e4f676b9aefb12f2
+2039	2210	1705018303886898251	Lab1_optimization	82df5821fb0f85ea
+6	3177	1705018560099016309	CMakeFiles/Lab1_optimization.dir/main.cpp.o	e4f676b9aefb12f2
+3178	3351	1705018560281871467	Lab1_optimization	82df5821fb0f85ea
+5	4274	1705020098062758781	CMakeFiles/Lab1_optimization.dir/main.cpp.o	e4f676b9aefb12f2
+4274	4448	1705020098255795659	Lab1_optimization	82df5821fb0f85ea
+9	4218	1705020168584267585	CMakeFiles/Lab1_optimization.dir/main.cpp.o	e4f676b9aefb12f2
+4218	4410	1705020168798389000	Lab1_optimization	82df5821fb0f85ea
+5	3979	1705020314393420861	CMakeFiles/Lab1_optimization.dir/main.cpp.o	e4f676b9aefb12f2
+3979	4140	1705020314579047825	Lab1_optimization	82df5821fb0f85ea
+6	3767	1705020917715373981	CMakeFiles/Lab1_optimization.dir/main.cpp.o	e4f676b9aefb12f2
+3767	3813	1705020917777934146	Lab1_optimization	82df5821fb0f85ea
+6	4473	1705022066964860001	CMakeFiles/Lab1_optimization.dir/main.cpp.o	e4f676b9aefb12f2
+4473	4651	1705022067159636293	Lab1_optimization	82df5821fb0f85ea
+6	4397	1705022660025317280	CMakeFiles/Lab1_optimization.dir/main.cpp.o	e4f676b9aefb12f2
+4397	4574	1705022660226448671	Lab1_optimization	82df5821fb0f85ea
+9	4304	1705022853039635893	CMakeFiles/Lab1_optimization.dir/main.cpp.o	e4f676b9aefb12f2
+4304	4483	1705022853233686169	Lab1_optimization	82df5821fb0f85ea
+5	4694	1705022971595199221	CMakeFiles/Lab1_optimization.dir/main.cpp.o	e4f676b9aefb12f2
+4694	4874	1705022971789542698	Lab1_optimization	82df5821fb0f85ea

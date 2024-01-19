@@ -1,0 +1,3 @@
+/Users/lengocquoclich/Desktop/optimization/Lab1_optimization/cmake-build-debug/CMakeFiles/Lab1_optimization.dir
+/Users/lengocquoclich/Desktop/optimization/Lab1_optimization/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/lengocquoclich/Desktop/optimization/Lab1_optimization/cmake-build-debug/CMakeFiles/rebuild_cache.dir
